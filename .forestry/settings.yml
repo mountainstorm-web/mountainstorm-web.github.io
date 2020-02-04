@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: jpg
+  label: JPG
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".jpg"
 - type: jekyll-pages
   label: Pages
   create: all
