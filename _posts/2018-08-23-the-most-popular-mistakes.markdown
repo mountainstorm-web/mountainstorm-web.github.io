@@ -1,21 +1,21 @@
 ---
 layout: post
 title: The most popular mistakes
-date: 2018-08-23T13:05:55.000+00:00
-image: "/img/concert-panoramic_byDarrenLeeMarsh.jpg"
-tags: []
-
+date: 2018-08-23 13:05:00
+image: /img/concert-panoramic_byDarrenLeeMarsh.jpg
+tags:
 ---
+
 Meditation tacos narwhal gochujang, shaman ramps green vegan humblebrag whatever microdosing juice poutine migas occupy fingerstache kickstarter disrupt brunch. Lorem ipsum dolor amet pok pok sriracha drinking vinegar, kogi chia gochujang bicycle rights gentrify shabby chic fingerstache chillwave four loko poke yuccie. La croix hashtag umami, put a bird on it leggings semiotics you probably haven't heard of them wolf iPhone. Beard portland sustainable poke pinterest messenger bag helvetica 8-bit cray. Keffiyeh PBR&B helvetica organic palo santo, art party pop-up letterpress next level VHS selvage snackwave tumblr deep v. Wayfarers irony ramps, flannel shaman drinking vinegar mumblecore tacos single-origin coffee art party lomo master cleanse cardigan taiyaki.
 
 ##### Placeholder
 
-* _Retro activated charcoal mustache selvage_
-* _sartorial four loko brooklyn woke_
-* _dreamcatcher lyft migas VHS. Bitters celiac flannel_ 
-* _schlitz aesthetic echo park polaroid. Hella lyft_
-* _selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday_ 
-* _carry 8-bit actually, godard bitters lomo echo park kickstarter tilde._
+* *Retro activated charcoal mustache selvage*
+* *sartorial four loko brooklyn woke*
+* *dreamcatcher lyft migas VHS. Bitters celiac flannel*
+* *schlitz aesthetic echo park polaroid. Hella lyft*
+* *selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday*
+* *carry 8-bit actually, godard bitters lomo echo park kickstarter tilde.*
 
 Gluten-free bicycle rights kogi ramps chartreuse lyft. Art party literally etsy, truffaut migas normcore copper mug single-origin coffee pickled. Pop-up godard activated charcoal vinyl, kombucha chicharrones cray brooklyn hell of mustache banh mi lo-fi small batch. Ugh literally cred gluten-free. Bitters humblebrag skateboard letterpress biodiesel enamel pin single-origin coffee umami irony meditation neutra freegan deep v dreamcatcher. Pok pok celiac church-key lomo XOXO squid intelligentsia kale chips bushwick. Tacos brooklyn edison bulb glossier, snackwave franzen taxidermy kombucha lo-fi twee yr.
 
