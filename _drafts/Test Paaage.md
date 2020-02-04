@@ -1,4 +1,6 @@
 ---
+title: Test paaage
+date: 2020-02-04 06:45:03.057000000 Z
 page_galleries:
 - gallery:
     title: Gallery 1
@@ -6,8 +8,8 @@ page_galleries:
     - "/img/galada-main-page.jpg"
     - "/img/02.jpg"
     - "/img/concert-panoramic_byDarrenLeeMarsh.jpg"
-
 ---
+
 one basic text 
 
 Typewriter jean shorts literally godard la croix. Put a bird on it wayfarers distillery taiyaki knausgaard +1, hella fixie. Gochujang vape poke poutine lyft, pour-over shabby chic coloring book tote bag fixie. Activated charcoal echo park post-ironic cardigan, flexitarian banjo knausgaard fashion axe hammock live-edge YOLO forage fixie everyday carry.

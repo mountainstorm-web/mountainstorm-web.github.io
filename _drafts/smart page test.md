@@ -1,4 +1,6 @@
 ---
+title: Smart page test
+date: 2020-02-04 06:45:03.110000000 Z
 page_blocks:
 - template: text-section
   text_area: |-
@@ -43,5 +45,5 @@ page_blocks:
     mnb
 
     mn
-
 ---
+
