@@ -2,7 +2,7 @@
 layout: post
 title: The most popular mistakes
 date: 2018-08-23T13:05:55.000+00:00
-image: 01.jpg
+image: "/img/concert-panoramic_byDarrenLeeMarsh.jpg"
 tags:
 - Lifehacks
 
