@@ -1,4 +1,8 @@
 ---
 label: Gallery Section
 hide_body: true
-fields: []
+fields:
+- name: mini_gallery
+  type: image_gallery
+  config: {}
+  label: Mini Gallery
