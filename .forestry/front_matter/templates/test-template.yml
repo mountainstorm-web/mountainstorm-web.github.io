@@ -24,3 +24,5 @@ fields:
     max: 
     labelField: 
   label: Page Galleries
+pages:
+- _posts/Test Paaage.md
