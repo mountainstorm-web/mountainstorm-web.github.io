@@ -10,7 +10,12 @@ Meditation tacos narwhal gochujang, shaman ramps green vegan humblebrag whatever
 
 ##### Placeholder
 
-_Retro activated charcoal mustache selvage sartorial four loko brooklyn woke dreamcatcher lyft migas VHS. Bitters celiac flannel schlitz aesthetic echo park polaroid. Hella lyft selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday carry 8-bit actually, godard bitters lomo echo park kickstarter tilde._
+* _Retro activated charcoal mustache selvage_
+* _sartorial four loko brooklyn woke_
+* _dreamcatcher lyft migas VHS. Bitters celiac flannel_ 
+* _schlitz aesthetic echo park polaroid. Hella lyft_
+* _selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday_ 
+* _carry 8-bit actually, godard bitters lomo echo park kickstarter tilde._
 
 Gluten-free bicycle rights kogi ramps chartreuse lyft. Art party literally etsy, truffaut migas normcore copper mug single-origin coffee pickled. Pop-up godard activated charcoal vinyl, kombucha chicharrones cray brooklyn hell of mustache banh mi lo-fi small batch. Ugh literally cred gluten-free. Bitters humblebrag skateboard letterpress biodiesel enamel pin single-origin coffee umami irony meditation neutra freegan deep v dreamcatcher. Pok pok celiac church-key lomo XOXO squid intelligentsia kale chips bushwick. Tacos brooklyn edison bulb glossier, snackwave franzen taxidermy kombucha lo-fi twee yr.
 
