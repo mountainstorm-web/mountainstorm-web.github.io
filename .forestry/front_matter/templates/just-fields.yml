@@ -15,3 +15,5 @@ fields:
     max: 
     labelField: 
   label: dew
+pages:
+- _posts/test.md
