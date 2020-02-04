@@ -9,3 +9,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- _posts/smart page test.md
