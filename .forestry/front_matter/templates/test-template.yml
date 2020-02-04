@@ -29,6 +29,14 @@ fields:
       schema:
         format: markdown
     label: Mega Text
+  - name: blocks
+    type: blocks
+    label: Blocks
+    template_types:
+    - test-template
+    config:
+      min: 
+      max: 
   config:
     min: 
     max: 
