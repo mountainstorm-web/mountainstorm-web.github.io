@@ -19,10 +19,21 @@ fields:
       config: {}
       label: Images
     label: Gallery
+    description: Gallery Element
+  - name: mega_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Mega Text
   config:
     min: 
     max: 
     labelField: 
   label: Page Galleries
+  description: Page Gallery info
 pages:
 - _posts/Test Paaage.md
