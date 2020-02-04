@@ -1,4 +1,11 @@
 ---
 label: Smart Page
 hide_body: true
-fields: []
+fields:
+- name: page_blocks
+  type: blocks
+  label: Page Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
