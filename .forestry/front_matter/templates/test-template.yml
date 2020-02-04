@@ -1,4 +1,26 @@
 ---
 label: Test Template
 hide_body: false
-fields: []
+fields:
+- name: page_galleries
+  type: field_group_list
+  fields:
+  - name: gallery
+    type: field_group
+    config: {}
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: images
+      type: image_gallery
+      config: {}
+      label: Images
+    label: Gallery
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Page Galleries
