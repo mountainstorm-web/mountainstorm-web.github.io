@@ -2,8 +2,9 @@
 layout: post
 title: Night city lights
 date: 2018-08-23T13:04:55.000+00:00
-image: 02.jpg
-tags: Cities
+image: "/img/concert-panoramic_byDarrenLeeMarsh.jpg"
+tags:
+- Cities
 
 ---
 PPP
