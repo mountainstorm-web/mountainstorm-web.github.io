@@ -5,7 +5,9 @@ fields:
 - name: page_blocks
   type: blocks
   label: Page Blocks
-  template_types: []
+  template_types:
+  - gallery-section
+  - text-section
   config:
     min: 
     max: 
